@@ -10,7 +10,7 @@ import java.util.Set;
 
 import org.irri.crosspredictor.model.CrossFormInputModel;
 
-import sun.awt.geom.Crossings;
+//import sun.awt.geom.Crossings;
 
 import com.vaadin.server.Page;
 import com.vaadin.server.VaadinService;
