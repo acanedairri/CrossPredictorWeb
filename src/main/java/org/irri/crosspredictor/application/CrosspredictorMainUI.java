@@ -32,7 +32,7 @@ public class CrosspredictorMainUI extends UI {
 		
 		tabSheetMain.addTab(new CrossFormComponent(tabSheetMain,tabSheetCrossResult),"Cross Form");
 		tabSheetMain.addTab(tableCrossResultLayout,"Cross Results");
-		
+		System.out.println("Insert text here");
 		layout.addComponent(tabSheetMain);
 		
 	}
